@@ -1,4 +1,4 @@
-# SM-Screen-Overlay-Hotfix
+# Screen Overlay Hotfix for SourceMod
 This is a (crappy) plugin to temp fix the incorrect clearing of r_screenoverlay until you (or plugin author) fixes the plugin that caused it.
 
 Cvar: sm_enable_screenoverlay_fix
